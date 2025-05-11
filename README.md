@@ -6,19 +6,67 @@ This repository contains three comprehensive projects that explore different asp
 🔍 Overview of Projects
 🎧 Project 1: Speech-to-Text System with Noise Robustness
 Notebook: NM_pr1.ipynb
+
 Goal: Develop a transcription system that performs well even in noisy environments.
-Techniques: Data augmentation with noise, use of pretrained models (e.g., Wav2Vec 2.0), evaluation with Word Error Rate (WER).
-Use Cases: Accessibility tools, voice assistants, meeting transcription.
+
+Techniques:
+
+Data augmentation with noise
+
+Pretrained models (e.g., Wav2Vec 2.0)
+
+Evaluation with Word Error Rate (WER)
+
+Use Cases:
+
+Accessibility tools
+
+Voice assistants
+
+Meeting transcription
+
 🌍 Project 2: Accent-Aware Speech Recognition System
 Notebook: NM4.ipynb
+
 Goal: Improve recognition accuracy across diverse speaker accents using speaker adaptation and data augmentation.
-Techniques: CNNs, RNNs, MLLR (Maximum Likelihood Linear Regression), phoneme frequency analysis.
-Use Cases: Transcription services, virtual assistants, language learning tools.
+
+Techniques:
+
+CNNs, RNNs
+
+MLLR (Maximum Likelihood Linear Regression)
+
+Phoneme frequency analysis
+
+Use Cases:
+
+Transcription services
+
+Virtual assistants
+
+Language learning tools
+
 ⚡ Project 3: Real-Time STT for Customer Support Automation
 Notebook: NM5.ipynb
+
 Goal: Build a low-latency speech-to-text system suitable for customer-agent calls.
-Techniques: HMMs, RNNs, real-time inference optimization, sentiment analysis, keyword extraction.
-Use Cases: Call summarization, chatbot integration, agent performance tracking.
+
+Techniques:
+
+HMMs, RNNs
+
+Real-time inference optimization
+
+Sentiment analysis, keyword extraction
+
+Use Cases:
+
+Call summarization
+
+Chatbot integration
+
+Agent performance tracking
+
 🛠️ Setup Instructions
 🔧 Requirements
-Install the dependencies listed in requirements.txt:
+Install the dependencies listed in requirements.txt.
