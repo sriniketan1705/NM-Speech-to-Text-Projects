@@ -1,26 +1,24 @@
 🗣️ Speech-to-Text Projects Collection 
 
-This repository contains three ASR projects addressing real-world challenges in noise, accents, and real-time transcription. Built with Python, Jupyter Notebooks, and deep learning, these projects explore innovative solutions for Speech-to-Text systems.
+This repository contains three ASR projects addressing real-world challenges like noise, accents, and real-time transcription. Built with Python and deep learning, these projects demonstrate innovative Speech-to-Text solutions.
 
 📁 Projects
 
 1️⃣ Noise-Robust STT
 
-Notebook: NM_pr1.ipynb
+Tackles transcription in noisy environments.
 
-Develops a system that performs well in noisy environments using Wav2Vec and Word Error Rate (WER) evaluation.
+Uses advanced models and noise-handling techniques.
 
 2️⃣ Accent-Aware STT
 
-Notebook: NM4.ipynb
+Enhances recognition across diverse accents.
 
-Enhances recognition accuracy for diverse accents through CNNs, RNNs, and MLLR techniques.
+Leverages speaker adaptation and phoneme analysis.
 
 3️⃣ Real-Time STT
 
-Notebook: NM5.ipynb
+Optimized for low-latency, real-time applications.
 
-Builds a low-latency transcription system optimized for customer support with real-time inference and sentiment analysis.
+Includes real-time inference and keyword extraction.
 
-🛠️ Setup Instructions
-Install dependencies listed in requirements.txt.
